@@ -1,7 +1,7 @@
 # Weather-App
 A simple web application built with HTML, CSS, and JavaScript, utilizing the OpenWeatherMap API. Users can enter a city name to fetch and display real-time weather data, including temperature, humidity, and wind speed. The app dynamically updates the weather icon based on the current weather condition. 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Demonstrating How To Use Weather API ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Demonstrating How To Use Weather API~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This code snippet demonstrates the use of an API to fetch weather data and display it in a weather application. Here's an explanation of the API concepts for the README file:
 
